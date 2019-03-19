@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Ngôi Chùa Xưa',
-    siteUrl: 'https://heatlyt.site',
+    siteUrl: 'https://techhometoday.info/',
     rssFeedTitle: 'ngoichuaxua',
     rssFeedDescription: 'Đoàn Bình và Ngôi Chùa Xưa',
   },
