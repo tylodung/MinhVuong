@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ngôi Chùa Xưa Techhome
+            Ngôi Chùa Techhome
           </span>
         </Link>
 
