@@ -78,7 +78,7 @@ const Footer = ({layoutHasSidebar = false}) => (
               href="http://trasuaphuquoc.com"
               target="_blank"
               rel="noopener">
-              Mỹ Phẩm AsiNice
+              Ngôi Chùa Xưa
             </ExternalFooterLink>
           </FooterNav>
         </div>

@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ngôi Chùa Xưa Heatlyt
+            Ngôi Chùa Xưa Techhome
           </span>
         </Link>
 
