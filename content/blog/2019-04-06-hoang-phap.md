@@ -1,6 +1,6 @@
 ---
 title: Chùa Hoằng Pháp
-author: ["jimfb", "sebmarkbage"]
+author: [doanbinh]
 ---
 
 

@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Ngôi Chùa Xưa',
+    title: 'Ngôi Chùa Techhome',
     siteUrl: 'https://techhometoday.info/',
     rssFeedTitle: 'ngoichuaxua',
-    rssFeedDescription: 'Đoàn Bình và Ngôi Chùa Xưa',
+    rssFeedDescription: 'Đoàn Bình và Ngôi Chùa Techhome',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',

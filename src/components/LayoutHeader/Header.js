@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://heatlyt.site/"
+            href="https://techhometoday.info/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
