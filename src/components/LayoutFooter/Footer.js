@@ -72,7 +72,7 @@ const Footer = ({layoutHasSidebar = false}) => (
               href="http://thaoam.com"
               target="_blank"
               rel="noopener">
-              Thảo Am
+              Đoàn Bình
             </ExternalFooterLink>
             <ExternalFooterLink
               href="http://trasuaphuquoc.com"

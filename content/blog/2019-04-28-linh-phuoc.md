@@ -1,7 +1,7 @@
 ---
 title: Chùa Linh Phước
 layout: post
-author: [steveluscher]
+author: [doanbinh]
 ---
 
 Chùa Linh Phước (chữ Hán: 靈福寺). Chùa còn được gọi là Chùa Ve Chai vì trong sân chùa có con rồng dài 49 m được làm bằng 12.000 vỏ chai lọ. Chùa Linh Phước là một công trình kiến trúc khảm sành đặc sắc của thành phố Đà Lạt.

@@ -1,6 +1,6 @@
 ---
 title: Thiền viện Trúc Lâm Bạch Mã
-author: [sophiebits]
+author: [doanbinh]
 ---
 
 Thiền viện Trúc Lâm Bạch Mã là một thiền viện thuộc phái thiền Trúc Lâm Yên Tử, là một danh lam thắng cảnh của tỉnh Thừa Thiên - Huế. Thiền viện tọa lạc dưới chân núi Bạch Mã, giữa lòng hồ Truồi thuộc địa bàn **xã Lộc Hòa, huyện Phú Lộc, tỉnh Thừa Thiên - Huế**.

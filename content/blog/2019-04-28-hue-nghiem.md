@@ -1,10 +1,12 @@
 ---
 title: Chùa Huệ Nghiêm
 layout: post
-author: [sophiebits]
+author: [doanbinh]
 ---
 
-Phật học viện Huệ Nghiêm hay chùa Huệ Nghiêm tọa lạc tại 220/110/1 đường Đỗ Năng Tế, Khu phố 2, phường An Lạc A, quận Bình Tân, Thành phố Hồ Chí Minh. Chùa là nơi đào tạo Tăng tài về giới luật nổi tiếng của miền Nam cũng như Việt Nam. Chùa Huệ Nghiêm là ngôi tự viện đầu tiên xây dựng giới đàn truyền giới luật Phật Giáo trong lịch sử hơn 2000 năm truyền thừa của Phật Giáo Việt Nam. 
+Phật học viện Huệ Nghiêm hay chùa Huệ Nghiêm tọa lạc tại 220/110/1 đường Đỗ Năng Tế, Khu phố 2, phường An Lạc A, quận Bình Tân, Thành phố Hồ Chí Minh. 
+
+Chùa là nơi đào tạo Tăng tài về giới luật nổi tiếng của miền Nam cũng như Việt Nam. Chùa Huệ Nghiêm là ngôi tự viện đầu tiên xây dựng giới đàn truyền giới luật Phật Giáo trong lịch sử hơn 2000 năm truyền thừa của Phật Giáo Việt Nam. 
 
 ![ten buc hinh](http://tamtoanthang.com.vn/hinhanh_flash/san_pham/P1000999.JPG "ten buc hinh")
 

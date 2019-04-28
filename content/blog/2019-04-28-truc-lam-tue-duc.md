@@ -1,6 +1,6 @@
 ---
 title: Thiền viện Trúc Lâm Tuệ Đức
-author: [zpao]
+author: [doanbinh]
 ---
 
 Giống như đóa sen tâm linh ngát hương giữa mây trời núi Hình Nhân, huyện Sông Lô, tỉnh Vĩnh Phúc, Thiền viện Trúc Lâm Tuệ Đức là chốn thiền môn luôn rộng cửa đón Phật tử, du khách trên cả nước về thưởng ngoạn, tập tu, hành đạo...

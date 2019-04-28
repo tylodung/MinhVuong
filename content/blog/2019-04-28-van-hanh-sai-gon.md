@@ -1,9 +1,11 @@
 ---
-title: Thiền viện Vạn Hạnh SÀI GÒN
-author: [gaearon]
+title: Thiền viện Vạn Hạnh Sài Gòn
+author: [doanbinh]
 ---
 
-Thiền viện Vạn Hạnh Thiền viện tọa lạc tại số 750 đường Nguyễn Kiệm, phường 4, quận Phú Nhuận, TP. Hồ Chí Minh. ĐT: 08.8450794. Chùa thuộc hệ phái Bắc tông. Trước năm 1975, nơi đây là Phân khoa Khoa học Ứng dụng thuộc Viện Đại học Vạn Hạnh Sài Gòn do Hòa thượng Tiến sĩ Thích Minh Châu làm Viện trưởng. Năm 1976, Hòa thượng đã tạo lập thiền viện làm nơi tu trì, nghiên cứu Phật học.
+Thiền viện Vạn Hạnh Thiền viện tọa lạc tại số 750 đường Nguyễn Kiệm, phường 4, quận Phú Nhuận, TP. Hồ Chí Minh. ĐT: 08.8450794. Chùa thuộc hệ phái Bắc tông. 
+
+Trước năm 1975, nơi đây là Phân khoa Khoa học Ứng dụng thuộc Viện Đại học Vạn Hạnh Sài Gòn do Hòa thượng Tiến sĩ Thích Minh Châu làm Viện trưởng. Năm 1976, Hòa thượng đã tạo lập thiền viện làm nơi tu trì, nghiên cứu Phật học.
 
 ![ten buc hinh](http://www.vncgarden.com/_/rsrc/1306056859582/di-tich-danh-thang/chuavietnam-xuavanay/tp-ho-chi-minh/thien-vien-van-hanh/370-Tam%20quan.jpg "ten buc hinh")
 
@@ -35,5 +37,4 @@ Giảng đường xây 2 tầng: điện Phật ở tầng lầu được bài t
 
 Thiền viện Vạn Hạnh hiện giữ một vị trí quan trọng trong việc nghiên cứu và hoằng dương Phật pháp của Phật giáo Việt Nam. Hòa thượng Viện chủ Thích Minh Châu là một vị cao tăng thạc đức, đương nhiệm Phó Chủ tịch Thường trực Hội đồng Trị sự Trung ương Giáo hội Phật giáo Việt Nam, Viện trưởng Viện nghiên cứu Phật học Việt Nam, Viện trưởng Học viện Phật giáo Việt Nam tại TP. Hồ Chí Minh.
 
-*Võ văn Tường Chùa Việt Nam - Xưa và Nay*
  
