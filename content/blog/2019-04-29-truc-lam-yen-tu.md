@@ -1,6 +1,6 @@
 ---
 title: Thiền viện Trúc Lâm Yên Tử
-author: [jimfb]
+author: [doanbinh]
 ---
 
 Thiền viện Trúc Lâm Yên Tử, còn gọi là Chùa Lân hay tên chữ là Long Động Tự là một ngôi chùa trên núi Yên Tử, thuộc địa phận thôn Nam Mẫu, xã Thượng Yên Công, thành phố Uông Bí, tỉnh Quảng Ninh, nằm trong Quần thể di tích danh thắng Yên Tử.
