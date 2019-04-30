@@ -1,11 +1,11 @@
 ---
-title: Chùa núi Châu Thới  Bình Dương
-author: [zpao]
+title: Chùa núi Châu Thới Bình Dương
+author: [doanbinh]
 ---
 
 Nằm ở địa phận xã Bình An, huyện Dĩ An, tỉnh Bình Dương, chùa Núi Châu Thới được xem như một thắng cảnh giữa một vùng đồng bằng rộng lớn. Những ngày rằm, mồng một, ngày nghỉ hoặc lễ chùa luôn có đông khách thập phương đến viếng thăm và lễ Phật.
 
-![ten buc hinh](http://coiphat.net/quanly/fileman/Uploads/Binh%20Duong/Di%20An/Chua%20Chau%20Thoi/IMG_0773.jpg "ten buc hinh")
+![ten buc hinh](https://i.ytimg.com/vi/WX1a1n-vumY/maxresdefault.jpg "ten buc hinh")
 
 Tọa lạc trên **núi Châu Thới nằm ở địa phận xã Bình An, huyện Dĩ An, tỉnh Bình Dương** nên chùa cũng mang tên núi. Nhìn từ xa đã thấy ngôi chùa ở độ cao 82m (so với mặt nước biển), ẩn hiện sau rặng cây cối xanh rì, xung quanh có nhiều hồ nhân tạo rất đẹp.
 

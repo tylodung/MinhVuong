@@ -1,9 +1,11 @@
 ---
-title: Thiền viện Trúc Lâm ĐÀ LẠT
-author: [sebmarkbage]
+title: Thiền viện Trúc Lâm Đà Lạt
+author: [doanbinh]
 ---
 
-Thiền Viện Trúc Lâm là thiền viện thuộc thiền phái Trúc Lâm Yên Tử. Thiền viện cách trung tâm thành phố Đà Lạt 5km, nằm trên núi Phụng Hoàng, phía trên Hồ Tuyền Lâm. Đây không chỉ là thiền viện lớn nhất Lâm Đồng, mà còn là điểm tham quan và chiêm bái của nhiều du khách trong và ngoài nước.
+Thiền Viện Trúc Lâm là thiền viện thuộc thiền phái Trúc Lâm Yên Tử. Thiền viện cách trung tâm thành phố Đà Lạt 5km, nằm trên núi Phụng Hoàng, phía trên Hồ Tuyền Lâm. 
+
+Đây không chỉ là thiền viện lớn nhất Lâm Đồng, mà còn là điểm tham quan và chiêm bái của nhiều du khách trong và ngoài nước.
 
 ![ten buc hinh](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ThienVienTrucLamDaLat_entrance_gate.JPG/1024px-ThienVienTrucLamDaLat_entrance_gate.JPG "ten buc hinh")
 
@@ -13,7 +15,7 @@ Thiền Viện Trúc Lâm là thiền viện thuộc thiền phái Trúc Lâm Y�
 
 **Khởi lập:** 1994
 
-**Người sáng lập:**	Hòa thượng Thích Thanh Từ
+**Người sáng lập:** Hòa thượng Thích Thanh Từ
 
 ##Lịch sử
 
