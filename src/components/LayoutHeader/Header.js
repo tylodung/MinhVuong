@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://techhometoday.info/"
+            href="https://pjldata.com/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
