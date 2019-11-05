@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ngôi Chùa Techhome
+            Ngôi Chùa Fnote
           </span>
         </Link>
 
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://pjldata.com/"
+            href="https://fnote.co/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

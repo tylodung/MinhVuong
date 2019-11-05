@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Ngôi Chùa',
-    siteUrl: 'https://pjldata.com/',
+    siteUrl: 'https://fnote.co/',
     rssFeedTitle: 'ngoichuaxua',
     rssFeedDescription: 'Đoàn Bình và Ngôi Chùa',
   },
