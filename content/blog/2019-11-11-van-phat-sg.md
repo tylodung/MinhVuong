@@ -1,13 +1,13 @@
 ---
-title: Chùa Vạn Phật TPHCM
+title: Chùa Vạn Phật địa điểm tâm linh ở Sài Gòn
 author: [josephsavona]
 ---
 
- 50 năm qua, chùa là trung tâm tổ chức các hoạt động từ thiện xã hội của Phật giáo quận 5 nhằm cứu trợ những vùng đồng bào gặp phải thiên tai; giúp đỡ các Trung tâm nuôi dạy trẻ mồ côi; giúp đỡ những người lỡ đường  ... Chùa cũng là trung tâm tu học, thuyết giảng Phật pháp cho đông đảo Phật tử hàng tuần không chỉ  người Hoa mà còn có cả nhiều người Việt nữa.    
+50 năm qua, chùa là trung tâm tổ chức các hoạt động từ thiện xã hội của Phật giáo quận 5 nhằm cứu trợ những vùng đồng bào gặp phải thiên tai; giúp đỡ các Trung tâm nuôi dạy trẻ mồ côi; giúp đỡ những người lỡ đường... Chùa cũng là trung tâm tu học, thuyết giảng Phật pháp cho đông đảo Phật tử hàng tuần không chỉ  người Hoa mà còn có cả nhiều người Việt nữa.    
 
- ![ten buc hinh](http://giacngo.vn/UserImages/1/2009/08/11/chuavanphatq5_01.jpg "ten buc hinh")
+![ten buc hinh](http://giacngo.vn/UserImages/1/2009/08/11/chuavanphatq5_01.jpg "ten buc hinh")
 
- Chùa Vạn Phật tọa lạc tại **số 66/14 đường Nghĩa Thục, phường 5, quận 5, TP Hồ Chí Minh**.
+Chùa Vạn Phật tọa lạc tại **số 66/14 đường Nghĩa Thục, phường 5, quận 5, TP Hồ Chí Minh**.
 
 Chùa thuộc Hệ phái Bắc tông (người Hoa)
 
