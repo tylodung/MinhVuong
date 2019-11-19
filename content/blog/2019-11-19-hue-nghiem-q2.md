@@ -1,5 +1,5 @@
 ---
-title: Chùa Huê Nghiêm TPHCM
+title: Chùa Huê Nghiêm linh thiêng ở Sài Gòn
 author: [sophiebits]
 ---
 
@@ -30,5 +30,4 @@ Ngôi chùa ngày nay thường xuyên đón tiếp nhiều đoàn khách du l�
 
 <figure><iframe width="650" height="400" src="//www.youtube-nocookie.com/embed/4wUbh2aPVY4" frameborder="0" allowfullscreen></iframe></figure>
 
-*Chùa Việt Nam - Xưa và Nay*
 
