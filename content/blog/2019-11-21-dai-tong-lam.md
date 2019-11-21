@@ -1,5 +1,5 @@
 ---
-title: Chùa Đại Tòng Lâm
+title: Chùa Đại Tòng Lâm là một ngôi đại tự có nhiều công trình quy mô và hiện đại
 author: [zpao]
 
 ---
