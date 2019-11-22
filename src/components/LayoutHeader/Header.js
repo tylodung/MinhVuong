@@ -170,10 +170,10 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="http://bakadono.com/"
+            href="http://bakadono.net/"
             target="_blank"
             rel="noopener">
-            Bakadono
+            BINH IT
             <ExternalLinkSvg
               cssProps={{
                 marginLeft: 5,

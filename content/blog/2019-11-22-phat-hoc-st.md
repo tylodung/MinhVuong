@@ -4,7 +4,9 @@ layout: post
 author: [steveluscher]
 ---
 
-Nơi đây là một ngôi chùa rộng lớn nhất Sóc Trăng tính đến thời điểm này, có rất nhiều cảnh đẹp và tượng phật cùng với các bức tượng miêu tả về các câu truyện cỗ tích ngày xưa, nếu các bạn có dịp đi ngang Sóc Trăng thì tuyệt đối phải đến đây một lần, các bạn sẽ không thất vọng khi bước chân vào chùa.
+Nơi đây là một ngôi chùa rộng lớn nhất Sóc Trăng tính đến thời điểm này, có rất nhiều cảnh đẹp và tượng phật cùng với các bức tượng miêu tả về các câu truyện cỗ tích ngày xưa.
+
+Nếu các bạn có dịp đi ngang Sóc Trăng thì tuyệt đối phải đến đây một lần, các bạn sẽ không thất vọng khi bước chân vào chùa.
 
 ![ten buc hinh](https://i.ytimg.com/vi/WZHFp7QtW78/maxresdefault.jpg "ten buc hinh")
 

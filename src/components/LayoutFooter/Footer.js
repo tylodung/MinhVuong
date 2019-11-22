@@ -61,9 +61,9 @@ const Footer = ({layoutHasSidebar = false}) => (
           }}>
           <FooterNav layoutHasSidebar={layoutHasSidebar}>
             <MetaTitle onDark={true}>Tài trợ & Công Đức</MetaTitle>
-            <FooterLink to="/blog/">Lời Phật Dạy</FooterLink>
+            <FooterLink to="/blog/">Ngôi Chùa Fnote</FooterLink>
             <ExternalFooterLink
-              href="http://bakadono.com"
+              href="http://bakadono.net"
               target="_blank"
               rel="noopener">
               Bakadono
