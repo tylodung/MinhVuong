@@ -1,9 +1,11 @@
 ---
-title: Thiền viện Trúc Lâm Tây Thiên
+title: Thiền viện Trúc Lâm Tây Thiên linh thiêng tại Vĩnh Phúc
 author: [sophiebits]
 ---
 
-Thiền viện Trúc Lâm Tây Thiên là một thiền viện thuộc dòng thiền Trúc Lâm Yên Tử nằm tại xã Đại Đình, huyện Tam Đảo, cách Hà Nội khoảng 85 km về phía tây. Cùng với Thiền viện Trúc Lâm Đà Lạt và Thiền viện Trúc Lâm Yên Tử, Thiền viện Trúc Lâm Tây Thiên là một trong 3 thiền viện lớn nhất của Việt Nam. Thiền viện Trúc Lâm Tây Thiên xây dựng ngay bên cạnh Khu di tích danh thắng Tây Thiên cổ tự (Chùa Tây Thiên, Đền Quốc Mẫu Tây Thiên Lăng Thị Tiêu, Đền Cô, Đền Cậu, Đền Thõng, Thác Bạc).
+Thiền viện Trúc Lâm Tây Thiên là một thiền viện thuộc dòng thiền Trúc Lâm Yên Tử nằm tại xã Đại Đình, huyện Tam Đảo, cách Hà Nội khoảng 85 km về phía tây. Cùng với Thiền viện Trúc Lâm Đà Lạt và Thiền viện Trúc Lâm Yên Tử, Thiền viện Trúc Lâm Tây Thiên là một trong 3 thiền viện lớn nhất của Việt Nam. T
+
+hiền viện Trúc Lâm Tây Thiên xây dựng ngay bên cạnh Khu di tích danh thắng Tây Thiên cổ tự (Chùa Tây Thiên, Đền Quốc Mẫu Tây Thiên Lăng Thị Tiêu, Đền Cô, Đền Cậu, Đền Thõng, Thác Bạc).
 
 Thiền viện Tây Thiên là nơi đào tạo về Phật giáo một cách có hệ thống, tạo điều kiện để Phật giáo Việt Nam phát triển cả về bề rộng cũng như chiều sâu và đẩy mạnh giao lưu với các dòng phật giáo của các nước khác.
 

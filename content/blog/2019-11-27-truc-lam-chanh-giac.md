@@ -1,5 +1,5 @@
 ---
-title: Thiền viện Trúc Lâm Chánh Giác
+title: Thiền viện Trúc Lâm Chánh Giác kỳ bí tại Tiền Giang
 author: [vjeux]
 ---
 
@@ -18,7 +18,7 @@ Thiền viện Trúc Lâm Chánh Giác được Ủy ban Nhân dân tỉnh Tiề
 
 Khu đất rộng, nơi thiền viện tọa lạc, do một số Phật tử thành tâm hiến cúng. Do toàn bộ diện tích xây dựng các công trình có cao độ thấp hơn mặt đường giao thông từ 2,5 - 3 mét, vì vậy công việc đầu tiên là phải đắp đê bao xung quanh với chiều cao 3,7 m để bơm cát vào để đạt đến cao trình xây dựng +3 m. Bốn đoạn đê bao ấy có tổng chiều dài 2.200 m với lượng đất đào đắp là 109.890 m³. Sau đó, khối lượng cát lấp để tạo mặt bằng xây dựng cũng nhiều không kém, với hơn 100.000 m³.
 
-Bên cạnh việc hiến đất, các Phật tử còn hiến cúng nhiều cây đại thụ để tạo cảnh quan, và nhiều khối lượng đá tảng (khoảng 2.500 tấn, mỗi tảng nặng từ trên 1 - 20 tấn, được sà lan chuyển về từ núi Thị Vải [thuộc tỉnh Bà Rịa - Vũng Tàu]) nhằm phục vụ cho việc xây dựng các hòn non bộ và trang trí...
+Bên cạnh việc hiến đất, các Phật tử còn hiến cúng nhiều cây đại thụ để tạo cảnh quan, và nhiều khối lượng đá tảng (khoảng 2.500 tấn, mỗi tảng nặng từ trên 1 - 20 tấn, được sà lan chuyển về từ núi Thị Vải thuộc tỉnh Bà Rịa - Vũng Tàu) nhằm phục vụ cho việc xây dựng các hòn non bộ và trang trí...
 
 Ngoài ra, các Phật tử còn hiến cúng pho tượng Phật Thích Ca Mâu Ni (đã an vị trong chánh điện ngày 20 tháng 10 năm 2013) được tạc bằng đá ngọc, thếp vàng, cao 4,5 m, nặng trên 30 tấn, do các nghệ nhân Myanmar chế tác...
 
