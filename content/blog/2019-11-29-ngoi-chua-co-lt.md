@@ -48,12 +48,12 @@ Chùa Hương là cách nói trong dân gian. Trên thực tế chùa Hương ha
 Lễ hội chùa Hương bắt đầu từ mùng 6 tháng 1 đến tháng 3 âm lịch. Cao điểm của lễ hội là từ Rằm tháng giêng đến 18 tháng hai âm lịch.
 
 
-Chùa Hương là một quần thể kiến trúc rải rác trong thung lũng Suối Yến, có 4 tuyến hành hương:
+**Chùa Hương là một quần thể kiến trúc rải rác trong thung lũng Suối Yến, có 4 tuyến hành hương:**
 
- Hương Tích: Đền Trình – Chùa Thiên Trù – Động Tiên Sơn – Chùa Giải Oan – Đền Trần Song – Động Hương Tích – Chùa Hinh Bồng.
+Hương Tích: Đền Trình – Chùa Thiên Trù – Động Tiên Sơn – Chùa Giải Oan – Đền Trần Song – Động Hương Tích – Chùa Hinh Bồng.
 
- Thanh Sơn: Chùa Thanh Sơn – Động Hương Đài.
+Thanh Sơn: Chùa Thanh Sơn – Động Hương Đài.
 
- Long Vân: Chùa Long Vân – Động Long Vân – Hang Sũng Sàm.
+Long Vân: Chùa Long Vân – Động Long Vân – Hang Sũng Sàm.
 
- Tuyết Sơn: Chùa Bảo Đài – Động Chùa Cá – Động Tuyết Sơn.
+Tuyết Sơn: Chùa Bảo Đài – Động Chùa Cá – Động Tuyết Sơn.
