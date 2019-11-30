@@ -1,5 +1,5 @@
 ---
-title: Tịnh Xá Ngọc Giang
+title: Tịnh Xá Ngọc Giang kiến trúc cô ở miền tây
 author: [doanbinh]
 ---
 
@@ -17,7 +17,7 @@ Sau nhiều lần đến nghe pháp, một số đông bà con đã phát tâm t
 
 Theo dòng thời gian, Hoà thượng Giác Thảo được Đức Trị sự Giác Như cử về Tịnh xá Ngọc Giang vào năm Bính Thìn (1976). Nhờ ân đức tu tập và nghiêm trì giới pháp của quý Ngài, nên số lượng Tăng chúng và tín đồ Phật tử ngày càng lớn mạnh. Nhưng ngôi già-lam đã nhu hoà trải qua gần 32 năm mưa nắng, thuận theo quy luật thành-trụ-hoại-không của muôn pháp, đến năm Tân Mùi (1991) đã xuống cấp trầm trọng. Chính vì thế, vào ngày 22 tháng 11 năm 1991, Hoà thượng Giác Thảo đã mua thêm 900m2 đất, và ngôi đạo tràng Tịnh xá Ngọc Giang đã được chư Tăng cùng Phật tử khởi công đại trùng tu dưới sự chứng minh và chỉ đạo của Hoà thượng Giác Nhu và Hoà thượng Giác Thảo.
 
-Với nét kiến trúc được thiết kế 2 tầng theo khuôn khổ khu đất, ngôi tịnh xá được kết hợp hài hoà giữa chánh điện (bên trên) theo mô hình bát giác truyền thống đặc thù của Hệ phái, bên trong được tôn trí tượng Đức Bổn sư Thích-ca ngay chính giữa và phía sau thờ đức Tổ sư Minh Đăng Quang ở phần gian nối dài. Tầng dưới là giảng đường theo mô hình “[I]Thuyền Bát Nhã[/I]”.
+Với nét kiến trúc được thiết kế 2 tầng theo khuôn khổ khu đất, ngôi tịnh xá được kết hợp hài hoà giữa chánh điện (bên trên) theo mô hình bát giác truyền thống đặc thù của Hệ phái, bên trong được tôn trí tượng Đức Bổn sư Thích-ca ngay chính giữa và phía sau thờ đức Tổ sư Minh Đăng Quang ở phần gian nối dài. Tầng dưới là giảng đường theo mô hình “Thuyền Bát Nhã”.
 
 Phần bên trái chánh điện là nhà thờ Cửu Huyền Thất Tổ (tầng trên), tầng dưới là nhà bếp được nối dài hết phần đất gặp lộ với một phòng phát hành kinh sách. Còn phần bên phải là những dãy am cốc nhỏ đơn sơ bằng gỗ nhẹ.
 

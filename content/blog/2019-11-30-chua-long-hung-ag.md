@@ -1,5 +1,5 @@
 ---
-title: Chùa Long Hưng
+title: Chùa Long Hưng linh thiêng tại miền tây An Giang
 author: [doanbinh]
 ---
 
