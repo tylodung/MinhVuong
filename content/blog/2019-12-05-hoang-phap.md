@@ -1,5 +1,5 @@
 ---
-title: Chùa Hoằng Pháp
+title: Chùa Hoằng Pháp là một ngôi chùa ở huyện Hóc Môn
 author: [doanbinh]
 ---
 
@@ -9,6 +9,7 @@ Chùa Hoằng Pháp là một ngôi chùa ở huyện Hóc Môn, Thành phố H�
 ![ten buc hinh](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ch%C3%B9a_Ho%E1%BA%B1ng_Ph%C3%A1p.jpg/1024px-Ch%C3%B9a_Ho%E1%BA%B1ng_Ph%C3%A1p.jpg "ten buc hinh")
 
 ##Vị trí
+
 Chùa tọa lạc trên khu đất diện tích 6 hécta, tại **Thành Ông Năm, xã Tân Hiệp, huyện Hóc Môn, thành phố Hồ Chí Minh**
 
 ##Lịch sử
@@ -87,7 +88,7 @@ Phía sau chánh điện là Tăng đường, cũng dùng làm giảng đường
 
 1957 - 1988	Hòa thượng Ngộ Chân Tử (1901 - 1988)
 
-1988 - nay	        Thượng tọa Thích Chân Tính (1958 -)
+1988 - nay	Thượng tọa Thích Chân Tính (1958 - nay)
 
 ##Hoạt động
 
@@ -96,6 +97,7 @@ Phía sau chánh điện là Tăng đường, cũng dùng làm giảng đường
 Hàng năm vào ngày 16 tháng 10 Âm lịch, chùa tổ chức ngày húy kỵ cố Hòa thượng Ngộ Chân Tử rất trọng thể.
 
 **Khóa tu Phật thất**
+
 **Khóa tu Mùa hè**
 
 <figure><iframe width="650" height="400" src="//www.youtube-nocookie.com/embed/67mo2oLyx7Q" frameborder="0" allowfullscreen></iframe></figure>

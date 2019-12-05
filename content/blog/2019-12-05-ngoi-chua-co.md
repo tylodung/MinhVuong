@@ -17,11 +17,11 @@ Chùa có kiến trúc độc đáo và khác biệt so với các ngôi chùa t
 
 Toàn bộ chùa chính có diện tích khoảng 51.784m2 được phân ra làm ba khu rõ rệt:
 
-Khu vườn: 31.000m2
+Khu vườn: 31.000m2;
 
-Nội tự chùa 13.000m2
+Nội tự chùa 13.000m2;
 
-Khu vườn tháp rộng 7.784m2
+Khu vườn tháp rộng 7.784m2;
 
 Kiến trúc của chùa gần một trăm gian liên hoàn được xây dựng bằng các vật liệu dân gian: gạch nung, ngói, tiểu sành, tường bao được làm bằng đất rất độc đáo. Các bức tường, cổng và một số công trình khác được xây dựng hoàn toàn bằng đất nện theo lối tường trình.
 
@@ -35,35 +35,35 @@ Tương truyền chùa được xây dựng từ thời Lý và mở rộng vào
 
 Vĩnh Nghiêm chưa tới thiền tâm chưa đành”
 
-Chùa hiện có 7 khối kiến trúc chính:
+**Chùa hiện có 7 khối kiến trúc chính:**
 
-Cổng tam quan
+Cổng tam quan;
 
-Toà tiền đường
+Toà tiền đường;
 
-Thiêu hương
+Thiêu hương;
 
-Thượng điện
+Thượng điện;
 
-Nhà tổ đệ nhất
+Nhà tổ đệ nhất;
 
-Gác chuông
+Gác chuông;
 
-Nhà tổ đệ nhị
+Nhà tổ đệ nhị;
 
-Hai dãy hành lang đông tây
+Hai dãy hành lang đông tây;
 
-Khu vườn tháp
+Khu vườn tháp;
 
-Hiện chùa còn lưu giữ được nhiều hiện vật có giá trị như:
+**Hiện chùa còn lưu giữ được nhiều hiện vật có giá trị như:**
 
-Hệ thống tượng phật
+Hệ thống tượng phật;
 
-Các bia đá
+Các bia đá;
 
-Hoành phi, câu đối
+Hoành phi, câu đối;
 
-Đồ thờ…
+Đồ thờ…;
 
 Đặc biệt kho Mộc bản với 3.050 bản ván khắc đã được UNESCO công nhận là Di sản tư liệu ký ức thế giới khu vực Châu Á – Thái Bình Dương vào năm 2012.
 
