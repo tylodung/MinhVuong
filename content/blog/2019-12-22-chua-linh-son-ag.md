@@ -1,9 +1,9 @@
 ---
-title: Chùa Linh Sơn - Ba Thê
+title: Chùa Linh Sơn còn được gọi là chùa Phật bốn tay núi Ba Thê
 author: [doanbinh]
 ---
 
-Chùa đẹp nổi tiếng An Giang nhé các ban!!!
+Vì vậy, dân quanh vùng khi ấy bèn góp công, góp của dựng lên một ngôi chùa đặt tên là Linh Sơn Tự để tôn thờ tượng Phật và gìn giữ bia cổ.
 
 ![ten buc hinh](https://dailytravelvietnam.com/vi/images/2016/02/chua-linh-son-ba-the-an-giang1-700x457.jpg "ten buc hinh")
 

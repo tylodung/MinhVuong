@@ -1,5 +1,5 @@
 ---
-title: Chùa Huệ Nghiêm
+title: Chùa Huệ Nghiêm là ngôi tự viện đầu tiên xây dựng giới đàn truyền giới luật Phật Giáo
 layout: post
 author: [doanbinh]
 ---
@@ -26,7 +26,7 @@ Chùa do HT Thích Thiện Hòa khai sáng, xây dựng vào ngày 11-11-1962 th
 
 ##Chư vị Trụ trì tiền bối
 
-Hòa thường Thích Bửu Hiền ;
+Hòa thường Thích Bửu Hiền;
 
 Hòa thượng Thích Chơn Lạc- húy Nhựt Thiện- tự Liên Độ (1991-2015);
 
@@ -34,7 +34,7 @@ Trụ trì hiện tại là Hòa thượng Thích Minh Thông, Phó ban Tăng s�
 
 ##Giới đài viện Cam Lồ Phương Đẳng
 
-Giới đài viện Cam Lồ Phương Đẳng (gọi tắt là Giới đài viện Huệ Nghiêm) là giới đài được xây dựng đầu tiên tại Việt Nam. Nơi đây là khu nội viện dành cho chư Tăng chuyên tâm Học và hành trì giới Luật. Với các Nội quy nghiêm khắc như: Không cho phật tử bước vào (trừ 3 ngày lễ lớn), Chư tăng nội viện cũng không được bước ra khỏi cổng, không được dùng điện thoại, không giữ Tiền, không ăn quá ngọ vvv…. Với Tông Chỉ “ TRÌ GIỚI – NIỆM PHẬT” :
+Giới đài viện Cam Lồ Phương Đẳng (gọi tắt là Giới đài viện Huệ Nghiêm) là giới đài được xây dựng đầu tiên tại Việt Nam. Nơi đây là khu nội viện dành cho chư Tăng chuyên tâm Học và hành trì giới Luật. Với các Nội quy nghiêm khắc như: Không cho phật tử bước vào (trừ 3 ngày lễ lớn), Chư tăng nội viện cũng không được bước ra khỏi cổng, không được dùng điện thoại, không giữ Tiền, không ăn quá ngọ vvv…. Với Tông Chỉ “ TRÌ GIỚI – NIỆM PHẬT”:
 
 TRÌ GIỚI để diệt trừ Ngũ Dục.
 
