@@ -16,19 +16,19 @@ Chùa được khởi công xây dựng vào năm 1949, hoàn thành năm 1950. 
 
 Chùa Linh Phước trải qua 5 đời trụ trì:
 
-Hòa thượng Thích Minh Thể (1951–1954)
+Hòa thượng Thích Minh Thể (1951–1954);
 
-Hòa thượng Thích An Hòa (1954–1956)
+Hòa thượng Thích An Hòa (1954–1956);
 
-Hòa thượng Thích Quảng Phát (1956–1959)
+Hòa thượng Thích Quảng Phát (1956–1959);
 
-Hòa thượng Thích Minh Đức (1959–1985)
+Hòa thượng Thích Minh Đức (1959–1985);
 
-Thượng tọa Thích Tâm Vị (từ 1985 đến nay)
+Thượng tọa Thích Tâm Vị (từ 1985 đến nay).
 
 ##Kiến trúc
 
-Chánh điện dài 33 m, rộng 12 m có 2 hàng cột rồng khảm sành, bên trên là nhiều bức phù điêu khảm sành giới thiệu về lịch sử Phật Thích Ca và những điển tích trong các kinh Pháp hoa, kinh A di đà.
+Chánh điện dài 33m, rộng 12m có 2 hàng cột rồng khảm sành, bên trên là nhiều bức phù điêu khảm sành giới thiệu về lịch sử Phật Thích Ca và những điển tích trong các kinh Pháp hoa, kinh A di đà.
 
 Sân chùa (Hoa Long Viên) có con rồng dài 49 m, vây rồng được làm bằng 12.000 vỏ chai bia, miệng rồng che phủ tượng Phật Di Lặc. Trước Hoa Long Viên là tòa Linh Tháp 7 tầng cao hơn 37 m, được coi là tháp chuông chùa cao nhất Việt Nam.[3] Trong lòng tháp treo Đại Hồng Chung cao 4,3 m, miệng chuông rộng 2,33 m, nặng 8.500 kg, được đúc vào năm 1999 và được xem là chuông nặng nhất Việt Nam. Trước sân chùa là đài Quán Thế Âm. Ngoài ra, nơi đây còn có nhà trưng bày đá quý, sành sứ cổ và đồ gỗ mỹ nghệ.
 

@@ -9,10 +9,6 @@ Một cuối tuần “hết pin”, lại mưa rả rích, tôi quyết định
 
 Điểm đến đầu tiên của tôi đó chính là chùa Ông Bổn (hay còn gọi là Miếu Nhị Phủ), tọa lạc tại 264 Hải Thượng Lãn Ông, quận 5, rất gần với chợ Kim Biên. Đường tìm đến đây cũng khá xa, nhưng cũng không hẳn là khó. Dọc đường bạn có thể hỏi bất kỳ ai trong khu người Hoa, đều có thể nhân được những lời chỉ dẫn rất nhiệt tình.
 
-Chùa Ông Bổn - Chùa cổ ở Sài Gòn. 
-
-Tọa lạc tại 264 Hải Thượng Lãn Ông, Q.5.
-
 Nhìn ngôi chùa như thế này, có ai biết được rằng nó đã có tuổi đời gần 300 năm tuổi. Bước vào đây, chợt nhận ra không hề có ai ngoài tôi cả. Có lẽ vì là trời mưa, có lẽ vì là lúc 2 giờ chiều và có lẽ cũng không phải là ngày cúng viếng nên mới vắng vẻ như thế.
 
 Để có nơi gặp gỡ và giữ gìn phong tục thờ cúng này, vào cuối thế kỷ 17, người Phúc Kiến đến mưu sinh trên đất Sài Gòn đã cùng chung góp công sức để xây dựng chùa Ông Bổn.
