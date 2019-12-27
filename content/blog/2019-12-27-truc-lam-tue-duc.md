@@ -5,13 +5,13 @@ author: [doanbinh]
 
 Giống như đóa sen tâm linh ngát hương giữa mây trời núi Hình Nhân, huyện Sông Lô, tỉnh Vĩnh Phúc, Thiền viện Trúc Lâm Tuệ Đức là chốn thiền môn luôn rộng cửa đón Phật tử, du khách trên cả nước về thưởng ngoạn, tập tu, hành đạo...
 
-![ten buc hinh](http://hairworld.vn/files/images/LifeStyle/Travel/2016/09/13/Thien-vien-Truc-Lam-Tue-Duc--doa-sen-bat-nha-giua-may-troi-Song-Lo/IMG0039Thienvientruclam.jpg "ten buc hinh")
+
 
 Thiền viện Trúc Lâm Tuệ Đức là một trong những điểm du lịch tâm linh lý tưởng của tỉnh Vĩnh Phúc. Thế nên, mỗi du khách sẽ cảm thấy hài lòng khi được hòa mình trong bầu không khí thanh bình, dòng nước xanh biếc của núi rừng thiên nhiên nơi đây.
 
 Thiền viện Trúc Lâm Tuệ Đức tọa lạc trên núi Hình Nhân thuộc dãy núi Sáng của xã Đồng Quế, huyện Sông Lô, tỉnh Vĩnh Phúc. Khác hẳn với sự ồn ào của phố thị, đến với nơi đây du khách được chiêm ngưỡng những công trình kiến trúc tráng lệ, không gian tôn nghiêm, u huyền và tĩnh mịch… Dưới chân núi là hồ Bò Lạc trong xanh in bóng núi rừng. Bên cạnh là dòng Thác Bay diệu kỳ với ánh bảy sắc cầu vồng lung linh trong nắng. Nơi đây đang hình thành khu di tích văn hóa tâm linh, sinh thái hấp dẫn hàng vạn du khách và Phật tử trên cả nước.
 
-![ten buc hinh](http://hairworld.vn/files/images/LifeStyle/Travel/2016/09/13/Thien-vien-Truc-Lam-Tue-Duc--doa-sen-bat-nha-giua-may-troi-Song-Lo/IMG0062Thienvientruclam.jpg "ten buc hinh")
+
 
 Thiền viện Trúc Lâm Tuệ Đức thuộc dòng thiền viện chính tông được sáng lập bởi Đức Phật Hoàng Trần Nhân Tông. Với công đức vô lượng của Phật tử gần xa, tháng 4/2010, Thiền viện được tôn tạo lại trên nền Kim Tôn – một ngôi chùa cổ niên đại trên 700 năm tuổi đã bị chiến tranh tàn phá. Ngôi chính điện Đại Hùng Bảo Điện rộng trên 700m², xung quanh là 3 quả núi giống như ngai vàng bao bọc. Từ điểm này, ta có thể nhìn thẳng ra một chiếc hồ lớn hình con rùa đang cõng cả quả núi trên lưng.
 
