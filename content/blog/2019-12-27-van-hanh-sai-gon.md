@@ -3,9 +3,11 @@ title: Thiền viện Vạn Hạnh Sài Gòn
 author: [doanbinh]
 ---
 
+Trước năm 1975, nơi đây là Phân khoa Khoa học Ứng dụng thuộc Viện Đại học Vạn Hạnh Sài Gòn do Hòa thượng Tiến sĩ Thích Minh Châu làm Viện trưởng. Năm 1976, Hòa thượng đã tạo lập thiền viện làm nơi tu trì, nghiên cứu Phật học.
+
 Thiền viện Vạn Hạnh Thiền viện tọa lạc tại số 750 đường Nguyễn Kiệm, phường 4, quận Phú Nhuận, TP. Hồ Chí Minh. ĐT: 08.8450794. Chùa thuộc hệ phái Bắc tông. 
 
-Trước năm 1975, nơi đây là Phân khoa Khoa học Ứng dụng thuộc Viện Đại học Vạn Hạnh Sài Gòn do Hòa thượng Tiến sĩ Thích Minh Châu làm Viện trưởng. Năm 1976, Hòa thượng đã tạo lập thiền viện làm nơi tu trì, nghiên cứu Phật học.
+
 
 ![ten buc hinh](http://www.vncgarden.com/_/rsrc/1306056859582/di-tich-danh-thang/chuavietnam-xuavanay/tp-ho-chi-minh/thien-vien-van-hanh/370-Tam%20quan.jpg "ten buc hinh")
 
@@ -31,7 +33,7 @@ Chánh điện (trước đây) thờ đức Phật Thích Ca thiền định tr
 
 Ngày 30 – 5 – 2001, Hòa thượng Viện chủ đã có lời cáo bạch đại trùng tu ngôi chánh điện thiền viện. Lễ đặt đá đại trùng tu ngôi chánh điện thiền viện được tổ chức ngày 04 – 12 – 2001. Ngôi chánh điện được xây dựng từ năm 2002 do kiến trúc sư Phan Trường Sơn phác họa kiến trúc kiểu chùa cổ ở Huế, nghệ nhân Lê Duy thực hiện phần trang trí nội thất.
 
- Thiền viện đã tổ chức trọng thể lễ khánh thành ngôi chánh điện vào ngày 24 – 10 – 2004 (ngày 11 tháng 9 năm Giáp Thân). Điện Phật được bài trí trang nghiêm. Án giữa, bậc cao nhất, tôn trí tượng Tam Thế Phật, bậc kế trước tôn trí tượng đức Phật Thích Ca. Căn phía sau điện Phật là bàn thờ Tổ, thờ cố Đại lão Hòa thượng Thích Tịnh Khiết, nguyên Đệ nhất Tăng Thống Giáo hội Phật giáo Việt Nam Thống Nhất.  
+Thiền viện đã tổ chức trọng thể lễ khánh thành ngôi chánh điện vào ngày 24 – 10 – 2004 (ngày 11 tháng 9 năm Giáp Thân). Điện Phật được bài trí trang nghiêm. Án giữa, bậc cao nhất, tôn trí tượng Tam Thế Phật, bậc kế trước tôn trí tượng đức Phật Thích Ca. Căn phía sau điện Phật là bàn thờ Tổ, thờ cố Đại lão Hòa thượng Thích Tịnh Khiết, nguyên Đệ nhất Tăng Thống Giáo hội Phật giáo Việt Nam Thống Nhất.  
 
 Giảng đường xây 2 tầng: điện Phật ở tầng lầu được bài trí đơn giản, trang nghiêm, chính giữa thờ đức Phật Thích Ca; tầng trệt là giảng đường của thiền viện, nơi thường tổ chức các buổi giảng pháp, hội thảo khoa học, biểu diễn văn nghệ…
 

@@ -1,5 +1,5 @@
 ---
-title: Thiền viện Trúc Lâm Tuệ Đức
+title: Thiền viện Trúc Lâm Tuệ Đức như đóa sen tâm linh ngát hương giữa mây trời núi
 author: [doanbinh]
 ---
 
@@ -17,7 +17,7 @@ Thiền viện Trúc Lâm Tuệ Đức thuộc dòng thiền viện chính tông
 
 ![ten buc hinh](http://hairworld.vn/files/images/LifeStyle/Travel/2016/09/13/Thien-vien-Truc-Lam-Tue-Duc--doa-sen-bat-nha-giua-may-troi-Song-Lo/IMG0044Thienvientruclam.jpg "ten buc hinh")
 
-Phía ngoài là cổng Tam Quan uy nghiêm với dòng chữ “Thiền viện Trúc Lâm Tuệ Đức”. Từ cổng là một đường bậc thang đá dẫn lên sảnh chính hướng vào trung tâm của Thiền viện. Chính điện thờ Phật Tổ uy nghiêm dưới gốc cây bồ đề. Hai bên trụ có đôi câu đối: “Bước nở khắp hà sa đường trí tuệ diệu kỳ/ muôn thủa trăng sao còn in dấu – Lời tuyên thuận một vị đức từ bi mầu nhiệm/ ngàn sau sông núi mãi lưu hương” và “Mây núi chập chùng chốn ấy/ bóng Kim Tôn xưa ánh đạo thắp lên ngời ý chỉ – Gió trăng thấp thoáng nơi này/ nguồn Tuệ Đức nay hùng tâm gieo xuống rạng tông phong”.  Chính điện có sức chứa lớn đáp ứng nhu cầu  ngồi thiền, nghe giảng dạy Phật pháp của du khách gần xa và Phật tử.
+Phía ngoài là cổng Tam Quan uy nghiêm với dòng chữ “Thiền viện Trúc Lâm Tuệ Đức”. Từ cổng là một đường bậc thang đá dẫn lên sảnh chính hướng vào trung tâm của Thiền viện. Chính điện thờ Phật Tổ uy nghiêm dưới gốc cây bồ đề. Hai bên trụ có đôi câu đối: “Bước nở khắp hà sa đường trí tuệ diệu kỳ/ muôn thủa trăng sao còn in dấu – Lời tuyên thuận một vị đức từ bi mầu nhiệm/ ngàn sau sông núi mãi lưu hương” và “Mây núi chập chùng chốn ấy/ bóng Kim Tôn xưa ánh đạo thắp lên ngời ý chỉ – Gió trăng thấp thoáng nơi này/nguồn Tuệ Đức nay hùng tâm gieo xuống rạng tông phong”.  Chính điện có sức chứa lớn đáp ứng nhu cầu  ngồi thiền, nghe giảng dạy Phật pháp của du khách gần xa và Phật tử.
 
 ![ten buc hinh](http://hairworld.vn/files/images/LifeStyle/Travel/2016/09/13/Thien-vien-Truc-Lam-Tue-Duc--doa-sen-bat-nha-giua-may-troi-Song-Lo/IMG0002Thienvientruclam.jpg "ten buc hinh")
 
