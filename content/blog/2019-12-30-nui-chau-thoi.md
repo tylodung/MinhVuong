@@ -1,5 +1,5 @@
 ---
-title: Chùa núi Châu Thới Bình Dương
+title: Chùa núi Châu Thới Bình Dương được xem như một thắng cảnh giữa một vùng đồng bằng rộng lớn
 author: [doanbinh]
 ---
 

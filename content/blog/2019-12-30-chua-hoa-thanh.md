@@ -3,7 +3,7 @@ title: Chùa Hòa Thạnh nổi tiếng ở An Giang
 author: [doanbinh]
 ---
 
-Chùa đẹp nổi tiếng An Giang nhé các ban!!!
+Chùa đẹp nổi tiếng An Giang nhé các bạn!!!
 
 ![ten buc hinh](https://mytourcdn.com/upload_images/Image/dunghuynh/ph%C3%BA%20qu%E1%BB%91c/426-Chua%20Hoa%20Thanh%202006.jpg "ten buc hinh")
 
