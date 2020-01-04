@@ -1,9 +1,11 @@
 ---
-title: Chùa Phật Học Cần Thơ
+title: Chùa Phật Học Cần Thơ là một trong những ngôi chùa lớn và cũng là điểm du lịch tâm linh
 author: [doanbinh]
 ---
 
-Chùa Phật học tọa lạc tại đường Hòa Bình – là một trong những ngôi chùa lớn và cũng là điểm du lịch tâm linh nổi tiếng của thành phố Cần Thơ. Chùa được xây dựng vào năm 1951, trước đây là trụ sở của Hội Phật học Nam việt tỉnh Cần Thơ.
+Chùa Phật học tọa lạc tại đường Hòa Bình – là một trong những ngôi chùa lớn và cũng là điểm du lịch tâm linh nổi tiếng của thành phố Cần Thơ. 
+
+Chùa được xây dựng vào năm 1951, trước đây là trụ sở của Hội Phật học Nam việt tỉnh Cần Thơ.
 
 ![ten buc hinh](https://static.mytour.vn/upload_images/Image/Articles%20Location/Can%20Tho/Chua%20Phat%20Hoc/42533405.jpg "ten buc hinh")
 
