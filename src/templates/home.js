@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Những ngôi chùa đẹp và nổi tiếng
+                Chùa Việt Nam
               </h1>
               <p
                 css={{

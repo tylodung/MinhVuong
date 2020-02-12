@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Ngôi Chùa Fnote
+            Chùa Việt Nam
           </span>
         </Link>
 
@@ -170,7 +170,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="http://bakadono.net/"
+            href="/"
             target="_blank"
             rel="noopener">
             BINH IT

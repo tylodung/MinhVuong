@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Ngôi Chùa',
+    title: 'Chùa Việt Nam',
     siteUrl: 'https://fnote.co/',
     rssFeedTitle: 'ngoichuaxua',
-    rssFeedDescription: 'Đoàn Bình và Ngôi Chùa',
+    rssFeedDescription: 'Đoàn Bình và Chùa Việt Nam',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
