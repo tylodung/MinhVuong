@@ -39,4 +39,4 @@ Do tên trùng nên chùa Bửu Long quận 9 hay bị nhầm với một khu du
 
 Du khách hướng Nhà Bè, quận 7, các tỉnh miền Tây nên đi đường Nguyễn Văn Linh, lên cầu Phú Mỹ, đến ngã tư đường Nguyễn Duy Trinh thì quẹo phải chạy thẳng, chừng vài cây số thì đường Nguyễn Duy Trinh thành đường Nguyễn Xiển, cuối đường quẹo phải chạy 4 km thì đến. Người ở các tỉnh miền Đông, Thủ Đức, Hóc Môn, Củ Chi, nên tìm cách đến đường Nguyễn Văn Việt, chạy đến hết đường về phía quận 9 thì quẹo phải vào đường Nguyễn Văn Tăng, chạy khoảng hơn 1 km thì Nguyễn Văn Tăng thành Nguyễn Xiển và đi thêm 4 km nữa là đến. 
 
-Lưu ý: nên đi buổi sáng để ngắm chùa đẹp hơn.
+**Lưu ý:** nên đi buổi sáng để ngắm chùa đẹp hơn.
