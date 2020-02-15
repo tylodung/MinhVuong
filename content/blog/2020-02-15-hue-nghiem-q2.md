@@ -3,11 +3,15 @@ title: Chùa Huê Nghiêm linh thiêng ở Sài Gòn
 author: [sophiebits]
 ---
 
-Báo Giác Ngộ số 50 ngày 10 – 01 – 2001 cho biết, ở mỗi khoảng sân, góc vườn, hồ sen, ao cá... đều được Hòa thượng trụ trì đặt tên của từng vị Bồ tát, Thánh Tăng có danh hiệu trong kinh Pháp Hoa. Hàng tháng, nơi đây có hai ngày chủ nhật dành cho Phật tử Đạo tràng Pháp Hoa chuyên tu. Ngày 27 – 5 – 2000, Thượng tọa Thích Giác Hoằng đã phát tâm hỷ cúng cho chùa 3 viên Xá lợi của đức Bổn sư và hai vị Thánh Tăng Mục Kiền Liên, Xá Lợi Phất.
+Báo Giác Ngộ số 50 ngày 10 – 01 – 2001 cho biết, ở mỗi khoảng sân, góc vườn, hồ sen, ao cá... đều được Hòa thượng trụ trì đặt tên của từng vị Bồ tát, Thánh Tăng có danh hiệu trong kinh Pháp Hoa. Hàng tháng, nơi đây có hai ngày chủ nhật dành cho Phật tử Đạo tràng Pháp Hoa chuyên tu. 
+
+Ngày 27 – 5 – 2000, Thượng tọa Thích Giác Hoằng đã phát tâm hỷ cúng cho chùa 3 viên Xá lợi của đức Bổn sư và hai vị Thánh Tăng Mục Kiền Liên, Xá Lợi Phất.
 
 ![ten buc hinh](https://ganday.net/wp-content/uploads/2016/05/109248367.jpg "ten buc hinh")
 
-Chùa tọa lạc ở **số 299B đường Lương Định Của, phường Bình Khánh, quận 2, TP. Hồ Chí Minh**. ĐT: 08.8874257. Chùa thuộc hệ phái Bắc tông.
+Chùa tọa lạc ở **số 299B đường Lương Định Của, phường Bình Khánh, quận 2, TP. Hồ Chí Minh**. 
+
+ĐT: 08.8874257. Chùa thuộc hệ phái Bắc tông.
 
 Đất chùa ngày nay do Hòa thượng Thích Hồng Tín tạo mãi cho tổ đình Huê Nghiêm, Thủ Đức từ năm 1899. Trước đây, phần đất này dùng để sản xuất lúa gạo cho tổ đình. Sau năm 1975, Hòa thượng Thích Trí Quảng, trưởng tử của Hòa thượng Thích Trí Đức, cố viện chủ tổ đình Huê Nghiêm, đã cho dựng thảo am, rồi xây chùa Huê Nghiêm 2 để tăng chúng và Phật tử có chỗ nghỉ ngơi, tu học. Năm 1998, chùa Huê Nghiêm 2 được chính thức công nhận.
 

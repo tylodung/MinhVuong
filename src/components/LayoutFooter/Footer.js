@@ -61,9 +61,9 @@ const Footer = ({layoutHasSidebar = false}) => (
           }}>
           <FooterNav layoutHasSidebar={layoutHasSidebar}>
             <MetaTitle onDark={true}>Tài trợ & Công Đức</MetaTitle>
-            <FooterLink to="/blog/">Ngôi Chùa Fnote</FooterLink>
+            <FooterLink to="/blog/">Chùa Việt Nam</FooterLink>
             <ExternalFooterLink
-              href="http://bakadono.net"
+              href="/"
               target="_blank"
               rel="noopener">
               Bakadono
@@ -119,7 +119,7 @@ const Footer = ({layoutHasSidebar = false}) => (
               color: colors.subtleOnDark,
               paddingTop: 15,
             }}>
-            Copyright © 2017 - 2019 Bakadono.
+            Copyright © 2017 - 2020 Bakadono.
           </p>
         </section>
       </div>
