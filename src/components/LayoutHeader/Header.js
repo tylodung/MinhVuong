@@ -151,7 +151,7 @@ const Header = ({location}) => (
             href="https://fnote.co/"
             target="_blank"
             rel="noopener">
-            Bakadono {version}
+            Home
           </a>
           <a
             css={{
@@ -173,7 +173,7 @@ const Header = ({location}) => (
             href="/"
             target="_blank"
             rel="noopener">
-            BINH IT
+            Liên hệ
             <ExternalLinkSvg
               cssProps={{
                 marginLeft: 5,
