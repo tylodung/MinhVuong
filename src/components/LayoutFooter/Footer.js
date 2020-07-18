@@ -69,13 +69,13 @@ const Footer = ({layoutHasSidebar = false}) => (
               Bakadono
             </ExternalFooterLink>
             <ExternalFooterLink
-              href="http://thaoam.com"
+              href="https://fnote.co/"
               target="_blank"
               rel="noopener">
               Đoàn Bình
             </ExternalFooterLink>
             <ExternalFooterLink
-              href="http://trasuaphuquoc.com"
+              href="https://fnote.co/"
               target="_blank"
               rel="noopener">
               Ngôi Chùa Xưa
@@ -102,7 +102,7 @@ const Footer = ({layoutHasSidebar = false}) => (
             },
           }}>
           <a
-            href="http://bakadono.com"
+            href="https://fnote.co/"
             target="_blank"
             rel="noopener">
             <img
